@@ -1,2 +1,2 @@
-# hazel-WebAssembly
+# hazel-webassembly
 Hazel Game Engine in WebAssembly
